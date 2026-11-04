@@ -12,7 +12,7 @@ The repository includes a GitHub Actions workflow for GitHub Pages. In repositor
 
 ## Assets
 
-The externally hosted controller model is credited in [ASSET_ATTRIBUTION.md](ASSET_ATTRIBUTION.md). The room and fallback controller are generated at runtime using Three.js. Three.js is MIT licensed; Google Fonts provide DM Sans and Playfair Display.
+The externally hosted controller model is credited in [ASSET_ATTRIBUTION.md](ASSET_ATTRIBUTION.md). The rainy room backdrop is a generated still image; the controller and its interactions are rendered in 3D with Three.js. The backup controller is generated at runtime. Three.js is MIT licensed; Google Fonts provide DM Sans and Playfair Display.
 
 ## فارسی
 
